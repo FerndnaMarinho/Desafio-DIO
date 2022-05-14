@@ -14,14 +14,10 @@ Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos est
 
 Como você realizaria um algoritmo para soma de 3 números? Abaixo está uma das possibilidades que pode ser testada no site citado acima.
 
-![soma_3_numeros](C:\workspace\Desafio DIO\img\soma_3_numeros.PNG)
-
-
+<img src="img/soma_3_numeros.PNG">
 
 #### Vamos reproduzir a Nota Média de 2 alunos diferente com a demonstração abaixo
 
-![Nota_Media2a](C:\workspace\Desafio DIO\img\Nota_Media2a.PNG)
-
-
+<img src="img/Nota_Media2a.PNG">
 
 Após esses exemplos sugiro que utilizem bastante esta pseudolinguagem de programação para aprimorar e aprender como funciona a lógica e a linguagem de programação.
