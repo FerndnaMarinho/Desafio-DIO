@@ -7,3 +7,4 @@
 - Raciocínio Lógico
 - Algoritmo 
 - Praticando Algoritmo
+- Conhecendo Git e GitHub
