@@ -78,34 +78,34 @@ Comando para limpar tela
 
 
 
-**Comandos referente a projetos criados **
+**Comandos referente a projetos criados**
 
 Crie uma pasta no local desejado, após sua criação acesse o Git e entre na pasta onde será inicializado o projeto.
 
 Já no terminal Git na pasta correta digite os comandos pertinentes ao que precisa ser executado.
 
-***git init*** » Inicializa um repositório Git
-***git status*** » Vê o estado atual do projeto
-***git add arquivo.txt*** » Adiciona o arquivo arquivo.txt ao projeto
+**git init**» Inicializa um repositório Git
+**git status** » Vê o estado atual do projeto
+**git add arquivo.txt** » Adiciona o arquivo arquivo.txt ao projeto
 
 *Opções do parâmetro* **add**
 
 ![image](https://user-images.githubusercontent.com/105069533/168439071-73a9a84f-5e9a-48a5-9730-386144f82b17.png)
 
-***git commit -m "Minhas mudanças efetuadas"*** » Armazena as mudanças efetuadas e descreve o que foi alterado
-***git log*** » Mostra todas as mudanças que já foram efetuadas: commit, autor e data
-***git push -u origin master*** » Envia todos os arquivos modificados e “commitados” para o repositório no github
+**git commit -m "Minhas mudanças efetuadas"** » Armazena as mudanças efetuadas e descreve o que foi alterado
+**git log** » Mostra todas as mudanças que já foram efetuadas: commit, autor e data
+**git push -u origin master** » Envia todos os arquivos modificados e “commitados” para o repositório no github
                     **-u** - faz com que o Git armazene esse comando e da próxima vez basta utilizarmos git push
-                    **origin-** diz que o repositório no github possui o mesmo nome do projeto/diretório que você está enviando
+                    **origin**- diz que o repositório no github possui o mesmo nome do projeto/diretório que você está enviando
                      **master** - é o nome da branch (indicador) Clique aqui para saber mais sobre branches
-***git pull origin master*** » Verifica as mudanças efetuadas por outros colaboradores do projeto
-***git diff HEAD*** » Verifica as partes dos arquivos alterados no último commit, veja mais opções em man git-diff
-***git reset arquivo.txt*** » Remove um arquivo do projeto
-***git checkout – arquivo.txt*** » Desfaz a última alteração feita num arquivo
-***git rm "*.txt"*** » Remove 1 ou mais arquivos utilizando “curinga”
-***git clone https://github.com/FerndnaMarinho/Desafio-DIO.git*** » Copia um projeto pro seu PC
-***info git*** » Obtém a Documentação do git
-***man git*** » Obtém o Manual do git
+**git pull origin master** » Verifica as mudanças efetuadas por outros colaboradores do projeto
+**git diff HEAD** » Verifica as partes dos arquivos alterados no último commit, veja mais opções em man git-diff
+**git reset arquivo.txt** » Remove um arquivo do projeto
+**git checkout – arquivo.txt** » Desfaz a última alteração feita num arquivo
+**git rm "*.txt"** » Remove 1 ou mais arquivos utilizando “curinga”
+**git clone https://github.com/FerndnaMarinho/Desafio-DIO.git** » Copia um projeto pro seu PC
+**info git** » Obtém a Documentação do git
+**man git** » Obtém o Manual do git
 
 
 
